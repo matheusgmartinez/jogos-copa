@@ -1140,10 +1140,7 @@ function getFlagMarkup(code, teamName) {
 }
 
 function isGameUnavailable(game) {
-    const now = new Date();
-    const gameDate = new Date(game.dateTime);
-
-    return game.status === "Finalizado" || gameDate < now;
+    return game.status === "Finalizado";
 }
 
 function createGameCard(game) {
