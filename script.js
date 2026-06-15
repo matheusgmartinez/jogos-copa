@@ -196,7 +196,7 @@ const gamesDatabase = [
         awayCode: "sn",
         dateTime: "2026-06-16T15:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/franca-senegal"
+        watchUrl: "https://www.youtube.com/watch?v=m1vplAfSs_A"
     },
     {
         id: "66457008",
@@ -207,7 +207,7 @@ const gamesDatabase = [
         awayCode: "no",
         dateTime: "2026-06-16T18:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/iraque-noruega"
+        watchUrl: "https://www.youtube.com/watch?v=Dgvz5nHdttk"
     },
     {
         id: "66457018",
@@ -218,7 +218,7 @@ const gamesDatabase = [
         awayCode: "dz",
         dateTime: "2026-06-16T21:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/argentina-argelia"
+        watchUrl: "https://www.youtube.com/watch?v=RhpNoBWVQGA"
     },
     {
         id: "66457020",
@@ -229,7 +229,7 @@ const gamesDatabase = [
         awayCode: "jo",
         dateTime: "2026-06-17T00:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/austria-jordania"
+        watchUrl: "https://www.youtube.com/watch?v=r97R-p-TlNM"
     },
     {
         id: "66457030",
@@ -240,7 +240,7 @@ const gamesDatabase = [
         awayCode: "cd",
         dateTime: "2026-06-17T13:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/portugal-rd-congo"
+        watchUrl: "https://www.youtube.com/watch?v=HpzKFDctbNw"
     },
     {
         id: "66457042",
@@ -251,7 +251,7 @@ const gamesDatabase = [
         awayCode: "hr",
         dateTime: "2026-06-17T16:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/inglaterra-croacia"
+        watchUrl: "https://www.youtube.com/watch?v=DaAFndjKuf8"
     },
     {
         id: "66457044",
@@ -262,7 +262,7 @@ const gamesDatabase = [
         awayCode: "pa",
         dateTime: "2026-06-17T19:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/gana-panama"
+        watchUrl: "https://www.youtube.com/watch?v=t7XBWsD5p6A"
     },
     {
         id: "66457032",
@@ -273,7 +273,7 @@ const gamesDatabase = [
         awayCode: "co",
         dateTime: "2026-06-17T22:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/uzbequistao-colombia"
+        watchUrl: "https://www.youtube.com/watch?v=BWsf2c4zKZs"
     },
 
     {
@@ -285,7 +285,7 @@ const gamesDatabase = [
         awayCode: "za",
         dateTime: "2026-06-18T12:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/tchequia-africa-do-sul"
+        watchUrl: "https://www.youtube.com/watch?v=61qIjGER86Q"
     },
     {
         id: "66456922",
@@ -296,7 +296,7 @@ const gamesDatabase = [
         awayCode: "ba",
         dateTime: "2026-06-18T15:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/suica-bosnia"
+        watchUrl: "https://www.youtube.com/watch?v=DL372r8XEDg"
     },
     {
         id: "66456920",
@@ -307,7 +307,7 @@ const gamesDatabase = [
         awayCode: "qa",
         dateTime: "2026-06-18T18:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/canada-catar"
+        watchUrl: "https://www.youtube.com/watch?v=fOLiF5uK2og"
     },
     {
         id: "66456908",
@@ -318,7 +318,7 @@ const gamesDatabase = [
         awayCode: "kr",
         dateTime: "2026-06-18T21:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/mexico-coreia-do-sul"
+        watchUrl: "https://www.youtube.com/watch?v=SVwg-Aiy2po"
     },
     {
         id: "66456944",
@@ -329,7 +329,7 @@ const gamesDatabase = [
         awayCode: "au",
         dateTime: "2026-06-19T15:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/eua-australia"
+        watchUrl: "https://www.youtube.com/watch?v=_6cfUXA1UUw"
     },
     {
         id: "66456934",
@@ -340,7 +340,7 @@ const gamesDatabase = [
         awayCode: "ma",
         dateTime: "2026-06-19T18:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/escocia-marrocos"
+        watchUrl: "https://www.youtube.com/watch?v=d1q2o990TZE"
     },
     {
         id: "66456932",
@@ -351,7 +351,7 @@ const gamesDatabase = [
         awayCode: "ht",
         dateTime: "2026-06-19T20:30:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/brasil-haiti"
+        watchUrl: "https://www.youtube.com/watch?v=DUuWdi0r1RI"
     },
     {
         id: "66456946",
@@ -362,7 +362,7 @@ const gamesDatabase = [
         awayCode: "py",
         dateTime: "2026-06-19T23:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/turquia-paraguai"
+        watchUrl: "https://www.youtube.com/watch?v=vHIqfIpEr7U"
     },
     {
         id: "66456972",
@@ -373,7 +373,7 @@ const gamesDatabase = [
         awayCode: "se",
         dateTime: "2026-06-20T13:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/holanda-suecia"
+        watchUrl: "https://www.youtube.com/watch?v=xN4B1527vDc"
     },
     {
         id: "66457074",
@@ -384,7 +384,7 @@ const gamesDatabase = [
         awayCode: "ci",
         dateTime: "2026-06-20T16:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/alemanha-costa-do-marfim"
+        watchUrl: "https://www.youtube.com/watch?v=V3wVoI3itnE"
     },
     {
         id: "66457076",
@@ -395,7 +395,7 @@ const gamesDatabase = [
         awayCode: "cw",
         dateTime: "2026-06-20T20:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/equador-curacao"
+        watchUrl: "https://www.youtube.com/watch?v=Yemi7Q2f5MA"
     },
     {
         id: "66456974",
@@ -406,7 +406,7 @@ const gamesDatabase = [
         awayCode: "jp",
         dateTime: "2026-06-21T00:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/tunisia-japao"
+        watchUrl: "https://www.youtube.com/watch?v=wEQfiiPmMSM"
     },
 
     {
@@ -418,7 +418,7 @@ const gamesDatabase = [
         awayCode: "sa",
         dateTime: "2026-06-21T12:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/espanha-arabia-saudita"
+        watchUrl: "https://www.youtube.com/watch?v=X3QQGOE2RA4"
     },
     {
         id: "66456986",
@@ -429,7 +429,7 @@ const gamesDatabase = [
         awayCode: "ir",
         dateTime: "2026-06-21T15:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/belgica-ira"
+        watchUrl: "https://www.youtube.com/watch?v=lMtrJbAfEaY"
     },
     {
         id: "66457000",
@@ -440,7 +440,7 @@ const gamesDatabase = [
         awayCode: "cv",
         dateTime: "2026-06-21T18:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/uruguai-cabo-verde"
+        watchUrl: "https://www.youtube.com/watch?v=1Z-J49TdQNs"
     },
     {
         id: "66456988",
@@ -451,7 +451,7 @@ const gamesDatabase = [
         awayCode: "eg",
         dateTime: "2026-06-21T21:00:00-04:00",
         status: "Agendado",
-        watchUrl: "https://exemplo.com/nova-zelandia-egito"
+        watchUrl: "https://www.youtube.com/watch?v=nLFPUeA-Naw"
     },
     {
         id: "66457022",
