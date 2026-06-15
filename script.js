@@ -103,7 +103,8 @@ const gamesDatabase = [
         homeCode: "de",
         awayCode: "cw",
         dateTime: "2026-06-14T13:00:00-04:00",
-        status: "Agendado",
+        status: "Finalizado",
+        score: "7 x 1",
         watchUrl: "https://www.youtube.com/watch?v=byP1peOCkzI"
     },
     {
@@ -114,7 +115,8 @@ const gamesDatabase = [
         homeCode: "nl",
         awayCode: "jp",
         dateTime: "2026-06-14T16:00:00-04:00",
-        status: "Agendado",
+        status: "Finalizado",
+        score: "2 x 2",
         watchUrl: "https://www.youtube.com/watch?v=6Ca_GzyVOs0"
     },
     {
@@ -125,7 +127,8 @@ const gamesDatabase = [
         homeCode: "ci",
         awayCode: "ec",
         dateTime: "2026-06-14T19:00:00-04:00",
-        status: "Agendado",
+        status: "Finalizado",
+        score: "1 x 0",
         watchUrl: "https://www.youtube.com/watch?v=IFh8Nuuhgcc"
     },
     {
@@ -136,7 +139,8 @@ const gamesDatabase = [
         homeCode: "se",
         awayCode: "tn",
         dateTime: "2026-06-14T22:00:00-04:00",
-        status: "Agendado",
+        status: "Finalizado",
+        score: "5 x 1",
         watchUrl: "https://www.youtube.com/watch?v=o2wC007Jp-A"
     },
     {
